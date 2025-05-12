@@ -1,5 +1,5 @@
-<div align="left">
-  <img height="200" src="img/ranggabaner.jpg>
+<div align="center">
+  <img height="200" src=img/ranggabaner.jpg  />
 </div>
 
 ###
@@ -98,3 +98,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielranggabani/danielranggabani/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danielranggabani/danielranggabani/output/pacman-contribution-graph.svg">
 </picture>
+
+###
