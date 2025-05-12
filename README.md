@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="200" src="img/ranggabaner.jpg>
 </div>
 
