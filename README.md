@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Hey 👋 Hello Word!</h3>
+<h1 align="left">Hey 👋 Hello Word!</h1>
 
 ###
 
